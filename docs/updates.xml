@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='jkkalmaeeekmblcldmgkpljdoibnagna'>
     <updatecheck
-      codebase='https://github.com/jnwusd/google-search-no-ai/google-search-no-ai.crx'
-      version='1.0.0' />
+      codebase='https://jnwusd.github.io/google-search-no-ai/google-search-no-ai.crx'
+      version='1.0.1' />
   </app>
 </gupdate>

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "WUSD Google Web Search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Directs Google searches to web results without AI Overviews.",
   "permissions": ["declarativeNetRequest"],
   "host_permissions": ["*://www.google.com/*", "*://google.com/*"],
@@ -13,5 +13,5 @@
   "icons": {
     "128": "icon128.png"
   },
-  "update_url": "https://github.com/jnwusd/google-search-no-ai/updates.xml"
+  "update_url": "https://jnwusd.github.io/google-search-no-ai/updates.xml"
 }
